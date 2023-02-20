@@ -16,7 +16,7 @@ pygame.init()
 screen = pygame.display.set_mode([WIDTH, HEIGHT])
 
 # Set the caption of the screen
-pygame.display.set_caption("My Game")
+pygame.display.set_caption("HyperJolt-1.0")
 
 # Set up the player
 player_width = 50
